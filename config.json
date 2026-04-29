@@ -1,0 +1,30 @@
+{
+  "cdNombre": "CD Isidro Casanova",
+  "cdCodigo": "CDIC",
+  "colorPrimario": "#FF8C00",
+  "colorSecundario": "#CC6600",
+  "naves": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F"
+  ],
+  "sheetId": "15wh4L63h7u_W7zATc9wESjVddads7CS8Ecm5xMtf784",
+  "driveFolderId": "1jA3CQhXZW4NNUUQw1h9xCL8nGPL8ZbbA",
+  "cds": [
+    {
+      "nombre": "CD Esteban Echeverría",
+      "codigo": "CDEE",
+      "color": "#FF8C00",
+      "gasUrl": "REEMPLAZAR_CON_URL_GAS_CDEE"
+    },
+    {
+      "nombre": "CD Isidro Casanova",
+      "codigo": "CDIC",
+      "color": "#1D4ED8",
+      "gasUrl": "REEMPLAZAR_CON_URL_GAS_CDIC"
+    }
+  ]
+}
