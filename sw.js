@@ -1,4 +1,4 @@
-const CACHE_VERSION = 'palletpro-cdic-v2';
+const CACHE_VERSION = 'palletpro-cdic-v3';
 const ASSETS = ['./index.html','./manifest.json','./icon-192.png','./icon-512.png'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE_VERSION).then(c=>c.addAll(ASSETS).catch(()=>{})).then(()=>self.skipWaiting()));
